@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PantallaElegante</string>
+    <string name = "email_label">Correo Electronico</string>
+    <string name = "extension_label">La Extension</string>
+    <string name = "department_label">El Departamento</string>
+    <string name = "supervisor_label">El Supervisor</string>
+    <string name = "direct_reports_label">Reportes Directos</string>
+    <string name = "dept_design_label">Diseno</string>
+</resources>
